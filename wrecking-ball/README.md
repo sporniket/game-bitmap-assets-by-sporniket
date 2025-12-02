@@ -10,6 +10,8 @@ To date, the initial choices created limitations requiring a substantial rewrite
 
 The assets are 16 colors, using the [dawnbringer 16 palette](https://lospec.com/palette-list/dawnbringer-16) : 
 
+|||||
+|---|---|---|---|
 |#112|#423|#336|#555|
 |#843|#362|#c44|#776|
 |#57c|#c73|#899|#6a3|
