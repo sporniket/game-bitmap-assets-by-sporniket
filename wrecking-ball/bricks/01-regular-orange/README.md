@@ -1,4 +1,4 @@
-# Regular Red brick, variable width
+# Regular Orange brick, variable width
 
 This tileset allows to generate bricks with a width as large as wanted.
 
